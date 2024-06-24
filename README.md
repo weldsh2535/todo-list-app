@@ -2,17 +2,12 @@
 
 This repository is a simple to-do list manager that runs on Node.js.
 
-## Getting started
-
-Download [Docker Desktop](https://www.docker.com/products/docker-desktop) for Mac or Windows. Docker Compose will be automatically installed. 
-On Linux, make sure you have the latest version of [Compose](https://docs.docker.com/compose/install/).
-
 ## Clone the repository
 
 Open a terminal and clone this sample application.
 
 ```
- git clone https://github.com/dockersamples/todo-list-app
+ git clone https://github.com/weldsh2535/todo-list-app
 ```
 
 ## Run the app
@@ -48,11 +43,6 @@ todo-list-app-mysql-1   mysql:8.0        "docker-entrypoint.s…"   mysql     24
 ```
 
 If you look at the Docker Desktop GUI, you can see the containers and dive deeper into their configuration.
-
-
-
-
-<img width="1330" alt="image" src="https://github.com/dockersamples/todo-list-app/assets/313480/d85a4bcf-e2c3-4917-9220-7d9b9a78dc54">
 
 
 ## Access the app
